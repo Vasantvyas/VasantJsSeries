@@ -10,6 +10,7 @@ city = "mumbai"
 in javascript, if you declare the variable but did not assigned value...
  then js assign  undefined value tp that variable. Example: District
 note: we can change the value of let and var. using assignment.
+note: prefer not to use var, becouse of issue in block scope and functional scope.
  */
 let District;
 
