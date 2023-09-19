@@ -18,3 +18,8 @@ let str6 = str4 + str5
 console.log(str6);
 ////output:  hello vasant 
 
+console.log(0 > undefined );
+
+
+console.log( undefined >  0);
+
